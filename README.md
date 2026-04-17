@@ -5,10 +5,13 @@ This repository serves as the central delivery hub for **Winlator Component Pack
 ---
 
 ## 📦 Releases
+### 🔹 [D3D_tzst](https://github.com/ajay9634/PcEmuFiles-Hub/releases/tag/D3D_tzst)
+* **Winlator DXVK & VKD3D tzst Collection**
+* Optimized for **Winlator 11 final**.
+
 
 ### 🔹 [D3D_wcp](https://github.com/ajay9634/PcEmuFiles-Hub/releases/tag/D3D_wcp)
 * **Winlator DXVK & VKD3D WCP Collection**
-* Comprehensive collection of DXVK and VKD3D libraries.
 * Optimized for both **Bionic** and **GLIBC** environments.
 
 ### 🔹 [Steam_Ajay](https://github.com/ajay9634/PcEmuFiles-Hub/releases/tag/Steam_Ajay)
