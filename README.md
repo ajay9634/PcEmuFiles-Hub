@@ -1,7 +1,4 @@
-<div align="center">
-  <img src="https://github.com/ajay9634/Ajay-prefix/blob/main/.github/logo.png" width="120" alt="logo" />
-
-  # 📂 PcEmuFiles-Hub
+# 📂 PcEmuFiles-Hub
   
   [![Release Status](https://img.shields.io/badge/Status-Active_Hub-vibrantgreen?style=for-the-badge)](https://github.com/ajay9634/PcEmuFiles-Hub/releases)
   [![Platform](https://img.shields.io/badge/Optimization-Winlator_|_Wine_|_Android-36BCF7?style=for-the-badge)](https://github.com/ajay9634/PcEmuFiles-Hub)
