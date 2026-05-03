@@ -1,7 +1,7 @@
 # 📂 PcEmuFiles-Hub
   
   [![Release Status](https://img.shields.io/badge/Status-Active_Hub-vibrantgreen?style=for-the-badge)](https://github.com/ajay9634/PcEmuFiles-Hub/releases)
-  [![Platform](https://img.shields.io/badge/Optimization-Winlator_|_Wine_|_Android-36BCF7?style=for-the-badge)](https://github.com/ajay9634/PcEmuFiles-Hub)
+  [![Platform](https://img.shields.io/badge/Optimization-Pc_Emu_on_Android-36BCF7?style=for-the-badge)](https://github.com/ajay9634/PcEmuFiles-Hub)
   [![Discord](https://img.shields.io/badge/Community-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://dsc.gg/emuplay0)
 
   **The premier central delivery hub for PC Emulation resources, Wine components, and essential system tools.**
